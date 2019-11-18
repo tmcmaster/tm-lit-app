@@ -1,0 +1,18 @@
+{
+    "name": "demo-tm-lit-app",
+    "version": "0.0.1",
+    "description": "LitElement web component, that can be used as a application structure.",
+    "author": "Tim McMaster",
+    "homepage": "https://tmcmaster.github.io/tm-lit-app",
+    "license": "MIT",
+    "repository": "https://github.com/tmcmaster/tm-lit-app",
+    "scripts": {
+        "build": "npm install && npx @pika/web"
+    },
+    "dependencies": {
+        "lit-element": "^2.0.1",
+        "lit-html": "^1.0.0",
+        "@wonkytech/tm-lit-app": "^0.0.1"
+    },
+    "devDependencies": {}
+}
