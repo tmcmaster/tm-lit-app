@@ -1,6 +1,6 @@
 {
     "name": "@wonkytech/tm-lit-app",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "LitElement web component, that can be used as a application structure.",
     "author": "Tim McMaster",
     "homepage": "https://tmcmaster.github.io/tm-lit-app",
