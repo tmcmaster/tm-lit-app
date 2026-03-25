@@ -1,35 +1,24 @@
 ---
-project:
-  name: "tm-lit-app"
-  description: "LitElement web component, that can be used as a application structure." # Escape double quotes in description
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "original"
-  git_url: "https://github.com/tmcmaster/tm-lit-app"
-  created: "2019-11-18"
-  modified: "2025-05-29"
-
-classification:
-  status: "unsorted"
-  engagement: "shelved"
-  priority: "low"
-  intent: []
-  domain: []
-  audience: "personal"
-
-stack:
-  languages: []
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: []
-
-syntropy_id: ""
-collections: []
-tags: []
+Title: tm-lit-app
+Description: LitElement web component, that can be used as a application structure.
+Author: Tim McMaster
+Created: '2019-11-18'
+Modified: '2025-05-29'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: original
+Repo-Author: tmcmaster
+Repo-Name: tm-lit-app
+Intent: []
+Domain: []
+Languages:
+- JavaScript
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
